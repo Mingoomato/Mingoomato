@@ -33,3 +33,4 @@ Contributions to a public team codebase include notice-search consolidation, leg
 ### 📫 Reach me
 
 - GitHub: [@Mingoomato](https://github.com/Mingoomato)
+- Mail: mj@mythimoo.com

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="290" viewBox="0 0 960 290" role="img" aria-labelledby="title desc">
+<title id="title">Mingyu Jeoung — AI systems and backend engineering</title><desc id="desc">A midnight blue profile banner with mint accents and an abstract connected system.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1424"/><stop offset="1" stop-color="#152c36"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#91b9c2" stroke-opacity=".05"/></pattern></defs>
+<rect width="960" height="290" rx="22" fill="url(#bg)"/><rect width="960" height="290" rx="22" fill="url(#grid)"/>
+<path d="M0 289H960" stroke="#80e8c7" stroke-opacity=".35"/>
+<g font-family="Arial, Helvetica, sans-serif"><rect x="42" y="35" width="149" height="27" rx="13.5" fill="#80e8c7" fill-opacity=".1" stroke="#80e8c7" stroke-opacity=".3"/><circle cx="57" cy="48" r="3" fill="#80e8c7"/><text x="69" y="52" font-size="11" letter-spacing="1.7" fill="#a5f1d9">MINGOOMATO</text>
+<text x="40" y="131" font-size="53" font-weight="700" letter-spacing="-2" fill="#f2f6fc">Mingyu Jeoung<tspan fill="#80e8c7">.</tspan></text>
+<text x="43" y="173" font-size="19" fill="#b8c8dc">AI systems. Backend engineering. Thoughtful tools.</text>
+<text x="43" y="239" font-size="11" letter-spacing="2.5" fill="#80e8c7">BUILD / CONNECT / VALIDATE / ITERATE</text></g>
+<g transform="translate(713 47)" fill="none"><circle cx="95" cy="96" r="86" stroke="#80e8c7" stroke-opacity=".12"/><circle cx="95" cy="96" r="60" stroke="#80e8c7" stroke-opacity=".12" stroke-dasharray="3 8"/>
+<path d="M28 49L96 16L161 63L143 143L63 165L28 49L143 143L96 16L63 165L161 63L28 49" stroke="#80e8c7" stroke-opacity=".32"/>
+<g fill="#152c36" stroke="#80e8c7"><circle cx="28" cy="49" r="7"/><circle cx="96" cy="16" r="5"/><circle cx="161" cy="63" r="7"/><circle cx="143" cy="143" r="5"/><circle cx="63" cy="165" r="7"/></g>
+<rect x="65" y="66" width="60" height="60" rx="17" fill="#10212c" stroke="#80e8c7" stroke-opacity=".6"/><path d="M88 85L77 96L88 107M102 85L113 96L102 107" stroke="#a5f1d9" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></g></svg>

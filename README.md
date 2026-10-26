@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Mingyu Jeoung — AI systems, backend engineering, and thoughtful tools" />
+<img src="./assets/profile-banner.svg" width="100%" alt="Mingyu Jeoung — AI systems, backend engineering, and research into practice" />
 
 <br />
 
-**Turning complex information into useful, inspectable software.**
+**AI & backend developer — bringing research ideas into working software.**
 
-Agentic applications &nbsp; · &nbsp; Retrieval &nbsp; · &nbsp; API integrations
+AI systems &nbsp; · &nbsp; Backend engineering &nbsp; · &nbsp; Applied research
 
-[Explore projects](#selected-work) &nbsp; / &nbsp; [Tech stack](#tech-stack) &nbsp; / &nbsp; [Say hello](mailto:mj@mythimoo.com)
+[Engineering](#ai--backend-engineering) &nbsp; / &nbsp; [Research](#research--applied-science) &nbsp; / &nbsp; [Tech stack](#tech-stack) &nbsp; / &nbsp; [Say hello](mailto:mj@mythimoo.com)
 
 </div>
 
@@ -16,10 +16,12 @@ Agentic applications &nbsp; · &nbsp; Retrieval &nbsp; · &nbsp; API integration
 
 ### A little about me
 
-Hi, I'm **Mingyu** — a self-directed developer building AI systems and backend products.  
-I enjoy connecting agents, data, and interfaces into workflows people can understand and verify.
+Hi, I'm **Mingyu** — a self-directed developer focused on **AI systems and backend engineering**.  
+I explore research ideas through software: agent workflows, evidence-aware knowledge tools, and applications for biological data.
 
-**Current interests** &nbsp; Reliable LLM workflows · Evidence-aware tools · Linux systems
+My work connects three interests: **understanding a problem, building the system, and checking what it actually does**.
+
+**Current interests** &nbsp; Reliable LLM workflows · Computational biology · Linux systems
 
 <br />
 
@@ -35,7 +37,9 @@ I enjoy connecting agents, data, and interfaces into workflows people can unders
 
 <br />
 
-### Selected work
+### AI & backend engineering
+
+Agent workflows and applications, with attention to integration and validation.
 
 <table>
 <tr>
@@ -66,6 +70,15 @@ Multi-agent orchestration with planning, ReAct/tool execution, checkpointed sess
 
 </td>
 </tr>
+</table>
+
+<br />
+
+### Research & applied science
+
+Scientific software, architecture exploration, and evaluation design.
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -82,19 +95,33 @@ A protein analysis platform combining asynchronous data retrieval, typed models,
 </td>
 <td width="50%" valign="top">
 
-#### 04 &nbsp; Linux Endpoint Lab
-**Systems concepts → hands-on experiments**
+#### 04 &nbsp; LLMWiki
+**Knowledge systems → architecture & evaluation**
 
-A local learning lab for durable event queues, mutual TLS, signed policies, and filesystem telemetry. Validation scope and limitations are documented in the repository.
+Architecture/specifications, evaluation protocols, LaTeX documentation, and small reference integrations for evidence-aware local knowledge. The integrated application lives in Folding-JimiJimi.
 
-<sub>C++20 · Linux · OpenSSL · SQLite</sub>
+<sub>Architecture · Evaluation design · Knowledge systems</sub>
 
 <br /><br />
-<a href="https://github.com/Mingoomato/linux-secure-endpoint-agent"><b>Explore repository ↗</b></a>
+<a href="https://github.com/Mingoomato/FOLDING_LLMWIKI_Technical"><b>Explore research & design ↗</b></a>
 
 </td>
 </tr>
 </table>
+
+<br />
+
+### Systems lab
+
+Hands-on learning projects that support my systems foundations.
+
+| Area | Public work |
+| :--- | :--- |
+| **Endpoint & policy** | [Endpoint agent](https://github.com/Mingoomato/linux-secure-endpoint-agent) · [Protected directory guard](https://github.com/Mingoomato/linux-protected-directory-guard) |
+| **Monitoring & detection** | [File integrity monitor](https://github.com/Mingoomato/linux-file-integrity-monitor) · [Behavior detector](https://github.com/Mingoomato/linux-behavior-detector) |
+| **Kernel & recovery** | [Kernel driver lab](https://github.com/Mingoomato/linux-kernel-driver-lab) · [Secure recovery](https://github.com/Mingoomato/linux-secure-recovery) |
+
+<sub>Learning labs; each repository documents its own implementation, validation scope, and limitations.</sub>
 
 <br />
 

@@ -1,51 +1,126 @@
 <div align="center">
 
-# Mingyu Jeoung
-### AI systems · Backend engineering · Evidence-aware software
+<img src="./assets/profile-banner.svg" width="100%" alt="Mingyu Jeoung — AI systems, backend engineering, and thoughtful tools" />
 
-Building agentic applications, reliable LLM workflows, and tools for complex domains.
+<br />
 
-[Projects](#selected-projects) &nbsp; / &nbsp; [Email](mailto:mj@mythimoo.com)
+**Turning complex information into useful, inspectable software.**
+
+Agentic applications &nbsp; · &nbsp; Retrieval &nbsp; · &nbsp; API integrations
+
+[Explore projects](#selected-work) &nbsp; / &nbsp; [Tech stack](#tech-stack) &nbsp; / &nbsp; [Say hello](mailto:mj@mythimoo.com)
 
 </div>
 
----
+<br />
 
-### About
+### A little about me
 
-I'm Mingyu, a self-directed developer working on AI systems and backend products. My projects explore how agents, retrieval, and API integrations can turn complex information into useful, inspectable workflows.
+Hi, I'm **Mingyu** — a self-directed developer building AI systems and backend products.  
+I enjoy connecting agents, data, and interfaces into workflows people can understand and verify.
 
-My development is extensively AI-assisted. I focus on requirements, architecture, integration, testing, debugging, and system-level iteration.
+**Current interests** &nbsp; Reliable LLM workflows · Evidence-aware tools · Linux systems
 
-### Selected projects
+<br />
 
-| Project | What it explores | Core technologies |
-| :--- | :--- | :--- |
-| **[Folding-JimiJimi](https://github.com/Mingoomato/Folding-JimiJimi)** | A local document agent with grounded retrieval, Gemini-assisted synthesis, approval-gated edits, hash validation, and Undo workflows. | TypeScript · React · Electron · Python · FastAPI |
-| **[Orchestrate-the-TEAM](https://github.com/Mingoomato/Orchestrate-the-TEAM)** | Multi-agent research orchestration with role-specialized agents, ReAct/tool execution, checkpointed sessions, and artifact verification. | Python · Multi-agent systems · API integrations |
-| **[ProteinScope](https://github.com/Mingoomato/ProteinScope)** | A protein analysis platform combining asynchronous biological-data retrieval, structured models, literature retrieval, optional model-assisted synthesis, and SSE progress streaming. | Python · FastAPI · Async I/O · Bioinformatics |
-| **[linux-secure-endpoint-agent](https://github.com/Mingoomato/linux-secure-endpoint-agent)** | A local learning lab for durable event queues, mutual TLS, signed policies, and filesystem telemetry. See the repository for validation scope and current limitations. | C++20 · OpenSSL · SQLite · Linux |
+### Tech stack
 
-### Team contribution
+<div align="center">
+<img src="./assets/stack-backend.svg" width="250" alt="AI and backend: Python, FastAPI, retrieval and RAG, API integrations" />
+<img src="./assets/stack-apps.svg" width="250" alt="Applications: TypeScript, React, Electron, JavaScript" />
+<img src="./assets/stack-systems.svg" width="250" alt="Systems: C++, Linux, Docker, SQLite" />
+</div>
 
-**[Electerior / g2bmaster-frontend](https://github.com/Electerior/g2bmaster-frontend)**  
-Contributed notice-search consolidation, legacy URL migration, responsive data-table behavior, API integration, and frontend test coverage.
+<p align="center"><sub>Also exploring &nbsp; PyTorch · PennyLane · Firebase</sub></p>
 
-React · TypeScript · Vite · TanStack Query · Vitest  
-*A team codebase; the contributions above describe my scope.*
+<br />
 
-### Tools & interests
+### Selected work
 
-- **AI & backend:** Python, FastAPI, retrieval, LLM workflows, API integrations
-- **Applications:** TypeScript, JavaScript, React, Electron
-- **Systems & tooling:** C++, Linux, Docker
-- **Further exploration:** PyTorch, PennyLane, Firebase
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 01 &nbsp; Folding-JimiJimi
+**Documents → grounded answers**
+
+A local document agent with grounded retrieval, Gemini-assisted synthesis, approval-gated edits, and Undo workflows.
+
+<sub>TypeScript · React · Electron · FastAPI</sub>
+
+<br /><br />
+<a href="https://github.com/Mingoomato/Folding-JimiJimi"><b>Explore repository ↗</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+#### 02 &nbsp; Orchestrate-the-TEAM
+**Specialized agents → coordinated research**
+
+Multi-agent orchestration with planning, ReAct/tool execution, checkpointed sessions, and artifact verification.
+
+<sub>Python · Multi-agent systems · API integrations</sub>
+
+<br /><br />
+<a href="https://github.com/Mingoomato/Orchestrate-the-TEAM"><b>Explore repository ↗</b></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 03 &nbsp; ProteinScope
+**Biological data → structured insight**
+
+A protein analysis platform combining asynchronous data retrieval, typed models, literature retrieval, and SSE progress streaming.
+
+<sub>Python · FastAPI · Async I/O · Bioinformatics</sub>
+
+<br /><br />
+<a href="https://github.com/Mingoomato/ProteinScope"><b>Explore repository ↗</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+#### 04 &nbsp; Linux Endpoint Lab
+**Systems concepts → hands-on experiments**
+
+A local learning lab for durable event queues, mutual TLS, signed policies, and filesystem telemetry. Validation scope and limitations are documented in the repository.
+
+<sub>C++20 · Linux · OpenSSL · SQLite</sub>
+
+<br /><br />
+<a href="https://github.com/Mingoomato/linux-secure-endpoint-agent"><b>Explore repository ↗</b></a>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+### Building with others
+
+**[Electerior / g2bmaster-frontend ↗](https://github.com/Electerior/g2bmaster-frontend)**  
+Team contributions spanning notice-search consolidation, legacy URL migration, responsive tables, API integration, and frontend tests.
+
+<sub>React · TypeScript · Vite · TanStack Query · Vitest — a team codebase; contributions describe my scope.</sub>
+
+<details>
+<summary><b>How I work</b></summary>
+
+My development is extensively AI-assisted. I focus on requirements, architecture, integration, testing, debugging, and system-level iteration. The repositories and their documented validation are the reference for what is implemented.
+
+</details>
+
+<br />
 
 ---
 
 <div align="center">
 
-**Explore my work**  
-[GitHub @Mingoomato](https://github.com/Mingoomato) · [mj@mythimoo.com](mailto:mj@mythimoo.com)
+**Let's connect.**  
+[mj@mythimoo.com](mailto:mj@mythimoo.com) &nbsp; · &nbsp; [@Mingoomato](https://github.com/Mingoomato)
+
+<sub>Build thoughtfully. Connect the pieces. Keep iterating.</sub>
 
 </div>

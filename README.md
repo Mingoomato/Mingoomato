@@ -5,7 +5,7 @@
 
 Building agentic applications, reliable LLM workflows, and tools for complex domains.
 
-[Portfolio ↗](https://gitfolio-maker.vercel.app/Mingoomato) &nbsp; / &nbsp; [Projects](#selected-projects) &nbsp; / &nbsp; [Email](mailto:mj@mythimoo.com)
+[Projects](#selected-projects) &nbsp; / &nbsp; [Email](mailto:mj@mythimoo.com)
 
 </div>
 
@@ -46,8 +46,6 @@ React · TypeScript · Vite · TanStack Query · Vitest
 <div align="center">
 
 **Explore my work**  
-[Gitfolio portfolio ↗](https://gitfolio-maker.vercel.app/Mingoomato) · [GitHub @Mingoomato](https://github.com/Mingoomato) · [mj@mythimoo.com](mailto:mj@mythimoo.com)
-
-<sub>Portfolio powered by <a href="https://github.com/Hbsnippet/Gitfolio-Maker">Gitfolio Maker</a>, using public GitHub profile and repository data.</sub>
+[GitHub @Mingoomato](https://github.com/Mingoomato) · [mj@mythimoo.com](mailto:mj@mythimoo.com)
 
 </div>
